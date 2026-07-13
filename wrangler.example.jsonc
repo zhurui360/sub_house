@@ -6,17 +6,17 @@
   "kv_namespaces": [
     {
       "binding": "NODE_STORE",
-      "id": "your-node-store-id",
+      "id": "6688177afcf44c348157afa8fdece181",
       "preview_id": "your-node-store-preview-id"
     },
     {
       "binding": "TEMPLATE_CONFIG",
-      "id": "your-template-config-id",
+      "id": "ab44f24f284445b7a209bb0e7796db03",
       "preview_id": "your-template-config-preview-id"
     },
     {
       "binding": "RULE_CONFIG",
-      "id": "your-rule-config-id",
+      "id": "d489531f9adc4a8d961350ef09744d13",
       "preview_id": "your-rule-config-preview-id"
     }
   ]
