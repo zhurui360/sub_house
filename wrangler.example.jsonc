@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "your-worker-name",
+  "name": "sub5454",
   "main": "_worker.js",
   "compatibility_date": "2026-04-07",
   "kv_namespaces": [
